@@ -1,6 +1,6 @@
 # Covid-Tracker
 
-Track number of covid patients from different countries
+Track number of covid patients from different countries using Covid-19 data API from RapidAPI
   - Number of Confirmed Cases.
   - Number of Recovered Cases.
   - Number of Critical Cases.
